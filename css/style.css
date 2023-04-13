@@ -1,0 +1,28 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+table {
+    margin: 20px auto 0;
+    width: 900px;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: arial;
+    font-size: 18px;
+}
+
+table tr th {
+    padding: 8px;
+}
+
+table tr td {
+    padding: 8px;
+}
+
+input {
+    width: 850px;
+    padding: 10px;
+    display: flex;
+    margin: 20px auto 0;
+}
